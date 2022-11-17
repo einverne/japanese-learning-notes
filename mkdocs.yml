@@ -1,0 +1,79 @@
+site_name: Japanese Learning Notes
+site_url:
+site_author: Ein Verne
+site_description: >-
+  一个用于记录日语学习笔记的网站。
+
+repo_name: einverne/japanese-learning-notes
+repo_url: https://github.com/einverne/japanese-learning-notes
+
+theme:
+  name: material
+  language: 'zh'
+
+  palette:
+    primary: blue
+    scheme: default
+  icon:
+    edit: material/pencil
+
+  feature:
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/einverne
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/einverne
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - tables
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde

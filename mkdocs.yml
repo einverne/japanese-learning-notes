@@ -9,6 +9,7 @@ repo_url: https://github.com/einverne/japanese-learning-notes
 
 theme:
   name: material
+  custom_dir: overrides
   language: 'zh'
 
   palette:

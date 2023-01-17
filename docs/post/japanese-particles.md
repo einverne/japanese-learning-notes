@@ -5,13 +5,13 @@ aliases: "日语的助词"
 tagline: ""
 description: ""
 category:
-tags: [ ]
+tags: [ japanese, particle,  ]
 comments: true
 create_time: 2023-01-12 14:16:08
 last_updated: 2023-01-12 14:16:08
 ---
 
-助词（じょし） particle 就像是英语中的 介词，in, on, at 等等
+日语中的助词（じょし、particle） 的用法，变化多端，就像是英语中的介词，in, on, at 等等的用法，对于外语学习者而言是日语学习的一个难点和混淆点。所以这篇文章就重点整理一下日语入门时经常会遇到的一些助词。
 
 - は
     - 表示主题，标记主语，一个句子只有一个，句子的主角，大主语

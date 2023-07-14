@@ -6,6 +6,8 @@ comments: true
 
 记录日语学习过程中的一些语法，工具，资料等。
 
+- 在我的博客上也[整理过](https://einverne.github.io/post/2022/10/japanese-learning-tools.html)
+
 ## 发音
 
 - [日语发音基础 五十音](https://blog.einverne.info/post/2022/10/japanese-hiragana-katakana.html)
@@ -40,13 +42,17 @@ comments: true
 
 ### Chrome 下日语相关插件
 
+- [10ten Japanese Reader (Rikaichamp)](https://chrome.google.com/webstore/detail/10ten-japanese-reader-rik/pnmaklegiibbioifkmfkgpfnmdehdfan)
 - [在 Twitter 中给汉字标注片假名](https://chrome.google.com/webstore/detail/mirigana/hbekfodhcnfpkmoeaijgbamedofonjib)
+
+[更多工具](https://blog.einverne.info/post/2022/10/japanese-learning-tools.html)
 
 ## 语法
 
 ### 视频教程
 
 - 出口仁老师的[大家的日本语文法](https://www.youtube.com/playlist?list=PLynCeSdpMqxCW-AfMtmIlASAMUVq8wX6k)
+- [大家的日本语线上课程](https://www.cocoro.idv.tw/)
 
 ### 教材
 

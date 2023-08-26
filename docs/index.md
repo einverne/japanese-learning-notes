@@ -54,6 +54,10 @@ comments: true
 - 出口仁老师的[大家的日本语文法](https://www.youtube.com/playlist?list=PLynCeSdpMqxCW-AfMtmIlASAMUVq8wX6k)
 - [大家的日本语线上课程](https://www.cocoro.idv.tw/)
 
+日语相关的频道
+
+- 日本語の森 <https://www.youtube.com/@nihongonomori2013>
+
 ### 教材
 
 - [IRODORI：生活中的日语](https://www2.jpfbj.cn/irodori/)
@@ -63,3 +67,8 @@ comments: true
 ## 幼儿日语无版权学习材料
 
 - <https://print-kids.net/> 所有的内容都可以免费打印
+
+## 网站
+
+- 日本語 <https://nihongokyoshi-net.com/>
+- 毎日のんびり日本語教師 <https://nihongonosensei.net/>

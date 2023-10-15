@@ -58,6 +58,10 @@ comments: true
 
 - 日本語の森 <https://www.youtube.com/@nihongonomori2013>
 
+### 书
+
+- Japanese-English Bilingual Visual Dictionary 这是一本日语英语可视化单词书，包含了 6000 多个单词，每个单词都有图片。
+
 ### 教材
 
 - [IRODORI：生活中的日语](https://www2.jpfbj.cn/irodori/)

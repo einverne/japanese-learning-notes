@@ -61,6 +61,7 @@ comments: true
 ### 书
 
 - Japanese-English Bilingual Visual Dictionary 这是一本日语英语可视化单词书，包含了 6000 多个单词，每个单词都有图片。
+- First 1000 Words Japanese by Heather Amery，包括了 1000 个日常的日语，英语单词，非常适合初学者
 
 ### 教材
 

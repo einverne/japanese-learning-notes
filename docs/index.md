@@ -32,8 +32,10 @@ comments: true
 - [広辞苑無料検索](https://sakura-paris.org/dict/) 一个在线的日语查词网站，可以免费查询包括广辞苑，大辞林，大辞泉，新辞林，小学馆中日日中等等非常多的词典。该网站还支持 Google 登录，数据都会存储在用户 Google Drive 的 Soradict 文件夹中。界面也非常简洁。
 - [Jisho 日语英语在线词典](https://jisho.org/)
 
+
 ### 单词
 
+- [核心 6000 单词](https://core6000.neocities.org/)
 - [[Anki]]
 - [[Duolingo]]
 - [[开心词场]]

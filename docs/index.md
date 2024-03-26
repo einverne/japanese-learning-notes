@@ -69,7 +69,7 @@ comments: true
 ### 教材
 
 - [IRODORI：生活中的日语](https://www2.jpfbj.cn/irodori/)
-  - 《IRODORI：生活中的日语》是一本国际交流基金会编辑出版并于2020年3月底推出的面向“打算在日本工作／生活的外国人”使用的教材。
+  - 《IRODORI：生活中的日语》是一本国际交流基金会编辑出版并于 2020 年 3 月底推出的面向“打算在日本工作／生活的外国人”使用的教材。
     通过这本教材外国人可以学到来自生活中的实际表达用语，并且全部音频及学习内容教可以免费下载。
 
 ## 幼儿日语无版权学习材料
@@ -80,3 +80,7 @@ comments: true
 
 - 日本語 <https://nihongokyoshi-net.com/>
 - 毎日のんびり日本語教師 <https://nihongonosensei.net/>
+
+## 日语词汇量检测
+
+- [日语词汇量检测 www.arealme.com](https://www.arealme.com/japanese-vocabulary-size-test/en/)
